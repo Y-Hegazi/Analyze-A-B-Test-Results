@@ -2,4 +2,4 @@
 A case-study of analyzing a/b test for new site page 
 
 required materials:
-https://video.udacity-data.com/topher/2017/December/5a32c9db_analyzeabtestresults-2/analyzeabtestresults-2.zip
+https://drive.google.com/drive/folders/11vqNIJgMbynou7E8i9oJaMzxA8vIADb4
